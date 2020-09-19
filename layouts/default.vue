@@ -16,3 +16,11 @@ export default {
   },
 }
 </script>
+
+<style>
+*,
+html,
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+</style>

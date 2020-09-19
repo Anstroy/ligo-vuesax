@@ -134,7 +134,11 @@
 </template>
 
 <script>
-export default {}
+export default {
+  data: () => ({
+    active: false,
+  }),
+}
 </script>
 
 <style></style>
